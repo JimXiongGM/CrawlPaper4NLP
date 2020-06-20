@@ -1,0 +1,15 @@
+localtest*
+.vscode/
+__pycache__
+
+test/
+
+*.log
+*.bat
+
+txt2ES_json/
+*.7z
+# git remote add github git@github.com:JimXiongGM/CrawlPaper4NLP.git
+# git remote add gitee git@gitee.com:JimXiongGM/CrawlPaper4NLP.git
+# git push github master
+# git push gitee master
